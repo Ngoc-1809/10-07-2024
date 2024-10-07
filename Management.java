@@ -69,7 +69,7 @@ public class Management {
         Animal[] Target = {
                 new Pig("Waddles"),
                 new Duck("Ugly Duck"),
-                new Fish("Stockfish")
+                new Fish("StockFish")
         };
 
         Printer(Target);
